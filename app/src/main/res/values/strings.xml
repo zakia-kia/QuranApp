@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Qur\'anApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="masjid">Masjid Terdekat</string>
+    <string name="daftar">Daftar surat</string>
+    <string name="keteragan">Keterangan</string>
+    <string name="jadwal">Jadwal Sholat</string>
+    <string name="subuh">Subuh</string>
+    <string name="_04_05_am">04.05 AM</string>
+    <string name="dzuhur">Dzuhur</string>
+    <string name="_11_45_am">11.45 AM</string>
+    <string name="asar">Asar</string>
+    <string name="magrib">Maghrib</string>
+    <string name="isya">Isya</string>
+    <string name="_15_06_pm">15.06 PM</string>
+    <string name="_17_55_pm">17.55 PM</string>
+    <string name="_19_04_pm">19.04 PM</string>
+    <string name="google_maps_key">AIzaSyDYHDISnhugE4Ar1bJugeyJANtJgBdBYqI</string>
+</resources>
